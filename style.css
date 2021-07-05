@@ -26,6 +26,16 @@ span{
 .me{
     color: #2BB2E8;
 }
+p{
+    padding: 15px;
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 3%;
+    box-shadow: 12px 12px 5px gray;
+    border-radius: 10px;
+    border-left: 8px solid;
+}
 
 .about-me{
     width: 30%;
